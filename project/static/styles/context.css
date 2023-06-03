@@ -1,0 +1,17 @@
+.answer{
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.question{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    background: hsl(0, 3%, 12%);
+
+}
+.form_search {
+    position: sticky;
+    background: transparent;
+    bottom: 0;
+    border: 1px solid transparent;
+}
